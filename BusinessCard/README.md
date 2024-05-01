@@ -1,3 +1,3 @@
 # Business Card
 ## Screenshot
-![Screenshot](Screenshot.png)
+<img src="./Screenshot.png" alt="screenshot" width="300"/>
