@@ -12,4 +12,6 @@
 - [Lemonade](./Lemonade)
 - [Tip Calculator](./TipCalculator)
 - [Art Space](./ArtSpace)
-
+## Unit 3
+- [Affirmations](./Affirmations)
+- [Courses](./Courses)
