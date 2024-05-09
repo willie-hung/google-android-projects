@@ -23,3 +23,4 @@
 - [Affirmations](./Affirmations)
 - [Courses](./Courses)
 - [Woof](./Woof)
+- [Superheroes](./Superheroes)
