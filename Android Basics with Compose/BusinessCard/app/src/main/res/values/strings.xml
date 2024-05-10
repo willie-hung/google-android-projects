@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Willie Hung</string>
+    <string name="title">Software Engineer</string>
+    <string name="phone">+1 000 000 0000</string>
+    <string name="email">email@example.com</string>
+    <string name="address">United States</string>
+</resources>

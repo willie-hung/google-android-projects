@@ -1,8 +1,10 @@
-# Android Basics with Compose
+# Android Training
 
-📱 All the projects presented in the [Google Android Compose](https://developer.android.com/courses/android-basics-compose/course) tutorial.
+All the projects presented in the [Google Android](https://developer.android.com/courses) tutorial.
 
-## Unit 1
+## 🤖 Anrdroid Basics with Compose
+
+### Unit 1
 
 - [Greeting Card](./GreetingCard)
 - [Happy Birthday](./HappyBirthday)
@@ -11,14 +13,14 @@
 - [Compose Quadrant](./ComposeArticle)
 - [Business Card](./BusinessCard)
 
-## Unit 2
+### Unit 2
 
 - [Dice Roller](./DiceRoller)
 - [Lemonade](./Lemonade)
 - [Tip Calculator](./TipCalculator)
 - [Art Space](./ArtSpace)
 
-## Unit 3
+### Unit 3
 
 - [Affirmations](./Affirmations)
 - [Courses](./Courses)
