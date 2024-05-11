@@ -6,23 +6,24 @@ All the projects presented in the [Google Android](https://developer.android.com
 
 ### Unit 1
 
-- [Greeting Card](./GreetingCard)
-- [Happy Birthday](./HappyBirthday)
-- [Compose Article](./ComposeArticle)
-- [Task Manager](./TaskManager)
-- [Compose Quadrant](./ComposeArticle)
-- [Business Card](./BusinessCard)
+- [Greeting Card](./Android%20Basics%20with%20Compose/GreetingCard)
+- [Happy Birthday](./Android%20Basics%20with%20Compose/HappyBirthday)
+- [Compose Article](./Android%20Basics%20with%20Compose/ComposeArticle)
+- [Task Manager](./Android%20Basics%20with%20Compose/TaskManager)
+- [Compose Quadrant](./Android%20Basics%20with%20Compose/ComposeArticle)
+- [Business Card](./Android%20Basics%20with%20Compose/BusinessCard)
 
 ### Unit 2
 
-- [Dice Roller](./DiceRoller)
-- [Lemonade](./Lemonade)
-- [Tip Calculator](./TipCalculator)
-- [Art Space](./ArtSpace)
+- [Dice Roller](./Android%20Basics%20with%20Compose/DiceRoller)
+- [Lemonade](./Android%20Basics%20with%20Compose/Lemonade)
+- [Tip Calculator](./Android%20Basics%20with%20Compose/TipCalculator)
+- [Art Space](./Android%20Basics%20with%20Compose/ArtSpace)
 
 ### Unit 3
 
-- [Affirmations](./Affirmations)
-- [Courses](./Courses)
-- [Woof](./Woof)
-- [Superheroes](./Superheroes)
+- [Affirmations](./Android%20Basics%20with%20Compose/Affirmations)
+- [Courses](./Android%20Basics%20with%20Compose/Courses)
+- [Woof](./Android%20Basics%20with%20Compose/Woof)
+- [Superheroes](./Android%20Basics%20with%20Compose/Superheroes)
+- [30 Days App](./Android%20Basics%20with%20Compose/ThirtyDaysApp)
