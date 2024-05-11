@@ -17,7 +17,7 @@ All the projects presented in the [Google Android](https://developer.android.com
 
 - [Dice Roller](./Android%20Basics%20with%20Compose/Unit2/DiceRoller)
 - [Lemonade](./Android%20Basics%20with%20Compose/Unit2/Lemonade)
-- [Tip Calculator](./Android%20Basics%20with%20Compose/Unit2/ipCalculator)
+- [Tip Calculator](./Android%20Basics%20with%20Compose/Unit2/TipCalculator)
 - [Art Space](./Android%20Basics%20with%20Compose/Unit2/ArtSpace)
 
 ### Unit 3
