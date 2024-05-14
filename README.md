@@ -31,3 +31,4 @@ All the projects presented in the [Google Android](https://developer.android.com
 ### Unit 4
 
 - [Dessert Clicker](./Android%20Basics%20with%20Compose/Unit4/DessertClicker)
+- [Unscramble](./Android%20Basics%20with%20Compose/Unit4/Unscramble)
